@@ -9,6 +9,9 @@ In ML Algorithms we have :
 
 1)Supervised Learning
 2)Unsupervised Learning
+
+
+
 In Supervised Learning we have :
 
 a)Regression
